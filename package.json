@@ -42,18 +42,18 @@
     "inline_icon": "bitbucket"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^3.2.2",
-    "mocha": "^3.0.2",
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^5.2.0",
     "sinon": "^1.17.5"
   },
   "dependencies": {
     "async": "^2.0.1",
-    "debug": "^2.2.0",
+    "debug": "^3.2.6",
     "gravatar": "^1.5.2",
     "oauth": "^0.9.10",
     "passport-bitbucket": "^2.0.0",
-    "strider-git": "^0.2.4",
+    "strider-git": "git+https://github.com/alagopus/strider-git.git#develop",
     "strider-hg": "^0.2.3"
   }
 }
