@@ -53,7 +53,7 @@
     "gravatar": "^1.5.2",
     "oauth": "^0.9.10",
     "passport-bitbucket": "^2.0.0",
-    "strider-git": "alagopus/strider-git#develop",
+    "strider-git": "github:alagopus/strider-git#develop",
     "strider-hg": "^0.2.3"
   }
 }
