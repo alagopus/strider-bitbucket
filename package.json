@@ -48,7 +48,7 @@
     "sinon": "^7.5.0"
   },
   "dependencies": {
-    "async": "^2.0.1",
+    "async": "^3.1.0",
     "debug": "^3.2.6",
     "gravatar": "^1.5.2",
     "oauth": "^0.9.10",
