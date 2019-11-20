@@ -45,7 +45,7 @@
     "chai": "^4.2.0",
     "eslint": "^5.16.0",
     "mocha": "^5.2.0",
-    "sinon": "^1.17.5"
+    "sinon": "^7.5.0"
   },
   "dependencies": {
     "async": "^2.0.1",
@@ -53,7 +53,7 @@
     "gravatar": "^1.5.2",
     "oauth": "^0.9.10",
     "passport-bitbucket": "^2.0.0",
-    "strider-git": "git+https://github.com/alagopus/strider-git.git#develop",
+    "strider-git": "alagopus/strider-git#develop",
     "strider-hg": "^0.2.3"
   }
 }
